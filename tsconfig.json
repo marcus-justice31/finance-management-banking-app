@@ -35,7 +35,7 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "next.config.mjs"
-  ],
+, "lib/server/appwrite.js"  ],
   "exclude": [
     "node_modules"
   ]
